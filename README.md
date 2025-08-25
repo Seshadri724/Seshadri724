@@ -8,7 +8,6 @@
 ---
 
 ### 👨‍💻 About Me
-
 🎯 Passionate and results-driven engineer with a strong foundation in Computer Science  
 🔧 Specializing in **DevOps**, **Site Reliability Engineering**, and **Cloud Infrastructure**  
 📈 Obsessed with automation, reproducibility, and scalable ML pipelines  
