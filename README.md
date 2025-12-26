@@ -46,7 +46,7 @@
 
 ### 💼 Professional Experience
 
-#### 🛠️ Site Reliability Engineering Intern @ mthree *(Mar 2025 – May 2025)*
+#### 🛠️ Site Reliability Engineering Intern @ mthree *(March 2025 – September 2025)*
 - 🧑‍💻 Completed 40+ hours of hands-on training in system administration & CI/CD
 - ⚙️ Automated ops tasks with Bash, reducing manual effort by 40%
 - 📈 Set up Prometheus & Grafana for real-time monitoring, identifying 3+ anomalies
