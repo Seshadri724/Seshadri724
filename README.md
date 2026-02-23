@@ -20,7 +20,7 @@
 
 | 💻 Languages   | 🗄️ Databases | 🌐 Web           | ⚙️ DevOps                        | ☁️ Cloud | 🧠 ML & MLOps           |
 |---------------|-------------|------------------|----------------------------------|----------|------------------------|
-| Python, Java  | MySQL       | HTML, CSS, JS    | Jenkins, Docker, K8s, Prometheus, Grafana | AWS      | MLflow, DVC, Airflow, FastAPI |
+| Python, Java  | MySQL       | HTML, CSS, JS    | Jenkins, Docker, K8s, Prometheus, Grafana ,Terraform | AWS , GCP    | MLflow, DVC, Airflow, FastAPI |
 
 - 🧰 **Version Control:** Git, GitHub  
 - 🖥️ **OS & Scripting:** Linux, Shell Scripting, Windows  
