@@ -42,6 +42,14 @@
 - 🧪 Compared 6 ML models for fraud detection
 - 🏆 Achieved 92% accuracy with Random Forest, outperforming others
 
+#### 🏠 MLops House Prediction – California Housing Regression (MLOps demo) *(Aug 2025)*
+Overview: End-to-end MLOps pipeline to predict median_house_value using the California Housing dataset. Demonstrates data & model lifecycle: data versioning, experiment tracking, model serving, CI/CD, and basic monitoring.
+
+
+#### 🤖 Data-Agnostic Agent – Data Agnostic Analyst (AI-powered data analyst)  *(Sep 2025)*
+
+Overview: AI-first data analysis tool with both an interactive Streamlit UI and a CLI. Automatically cleans, validates, and generates insights for arbitrary structured datasets using a modular AnalystAgent and a ValidationManager to detect hallucinations and ensure trustworthy outputs.
+
 ---
 
 ### 💼 Professional Experience
