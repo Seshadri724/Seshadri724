@@ -9,14 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:seshuvangapandu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-seshuvangapandu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/seshadri-naidu-vangapandu">
-    <img src="https://img.shields.io/badge/LinkedIn-seshadri--naidu--vangapandu-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 
